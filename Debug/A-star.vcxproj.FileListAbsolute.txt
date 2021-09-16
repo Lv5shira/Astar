@@ -1,0 +1,4 @@
+C:\Users\Kotori\source\repos\A-star\Debug\A-star.exe
+C:\Users\Kotori\source\repos\A-star\Debug\A-star.pdb
+C:\Users\Kotori\source\repos\Astar\Debug\A-star.exe
+C:\Users\Kotori\source\repos\Astar\Debug\A-star.pdb
