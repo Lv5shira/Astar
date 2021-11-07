@@ -6,10 +6,13 @@ Program uses A-star path-finding algorithm to search from Point A to Point B as 
 Black Box represents walls or blocked pathways.
 
 
-![image](https://user-images.githubusercontent.com/62183083/140663711-541c2793-4843-435b-91cc-64117bb7f350.png)
+![image](https://user-images.githubusercontent.com/62183083/140663883-0aaa3097-1da9-4be0-b509-b332e7a57ef3.png)
 
 Controls
 LMB: Select grid
 RMB: Unselect grid
 E: Switch Grid choice (Point A -> Point B -> Wall)
 Enter: Run
+
+Project is not fully complete and will be refined later
+Additional path-finding algorithms will be added in the future
