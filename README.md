@@ -12,7 +12,7 @@ Controls\
 LMB: Select grid\
 RMB: Unselect grid\
 E: Switch Grid choice (Point A -> Point B -> Wall)\
-Enter: Run\
+Enter: Run
 
 Project is not fully complete and will be refined later\
 Additional path-finding algorithms will be added in the future
